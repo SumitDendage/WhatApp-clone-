@@ -1,4 +1,4 @@
-📱 WhatsApp Clone
+ WhatsApp Clone
 A real-time messaging application inspired by WhatsApp, built with modern web technologies.
 It features secure authentication, instant 1:1 and group messaging, media sharing, and an intuitive, mobile-friendly UI.
 
@@ -81,7 +81,3 @@ npm run dev
 # Start frontend
 cd client
 npm start
-
-📜 License
-This project is licensed under the MIT License.
-
